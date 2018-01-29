@@ -1,0 +1,39 @@
+id,title,area,scientist_id
+1,Geneticist Lead,Cancer,39
+2,Geneticist Lead,Auto Immune,39
+3,Geneticist Lead,Auto Immune,48
+4,Geneticist Lead,Auto Immune,48
+5,Geneticist,Auto Immune,48
+6,Geneticist,Auto Immune,48
+7,Geneticist,Auto Immune,48
+8,Geneticist,Auto Immune,9
+10,Geneticist,Auto Immune,9
+11,Geneticist,Auto Immune,9
+12,Geneticist,Auto Immune,9
+13,Geneticist,Auto Immune,9
+14,Geneticist,Cancer,9
+15,Geneticist,Cancer,9
+17,Senior Geneticist,Cancer,9
+18,Senior Geneticist,Cancer,9
+19,Senior Geneticist,Cancer,9
+22,Senior Geneticist,Cancer,9
+23,Senior Geneticist,Cancer,9
+24,Senior Geneticist,Neurology,9
+26,Senior Geneticist,Neurology,21
+27,Senior Geneticist,Neurology,21
+28,Senior Geneticist,Neurology,21
+30,Senior Geneticist,Neurology,21
+32,Senior Geneticist,Neurology,21
+33,Senior Geneticist,Metabolic,21
+34,Senior Geneticist,Metabolic,21
+35,Senior Geneticist,Metabolic,21
+37,Geneticist,Metabolic,29
+38,Geneticist,Metabolic,29
+40,Geneticist,Metabolic,29
+42,Geneticist,Immuno Oncology,29
+44,Geneticist Lead,Immuno Oncology,25
+45,Geneticist Lead,Immuno Oncology,16
+46,Geneticist Lead,Immuno Oncology,41
+47,Geneticist Lead,Immuno Oncology,41
+49,Geneticist Lead,Immuno Oncology,39
+50,Geneticist Lead,Immuno Oncology,39
